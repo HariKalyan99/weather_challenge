@@ -1,0 +1,18 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .weatherCard {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 5rem;
+    row-gap: 2rem;
+  }
+  
+  .text-decor {
+    font-weight: bolder;
+  }
+  
